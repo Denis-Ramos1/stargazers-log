@@ -1,0 +1,42 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World",
+    "language": "HTML",
+    "stars": 2450,
+    "starredAt": "2026-09-18"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "stars": 175000,
+    "starredAt": "2026-09-10"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "language": "Markdown",
+    "stars": 380000,
+    "starredAt": "2026-08-29"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source repo for docs.github.com.",
+    "url": "https://github.com/github/docs",
+    "language": "JavaScript",
+    "stars": 17000,
+    "starredAt": "2026-08-14"
+  },
+  {
+    "name": "octo-org/octo-repo",
+    "description": "A sample repository for demonstration purposes.",
+    "url": "",
+    "language": "JavaScript",
+    "stars": 500,
+    "starredAt": "2026-09-20"
+  }
+]
